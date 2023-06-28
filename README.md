@@ -3,7 +3,7 @@
 I am Emilie, .Net Full Stack Developer in training from Belgium. 
 I like solving problems and everything related to new technologies and computers. 
 
-- 🔭 I’m currently working on learning new things every day
+- 🔭 I’m currently working on discovering new things every day
 - 🌱 I’m currently learning C#, Javascript and Cybersecurity
 - 👨‍💻  Read more about my projects at <a href="https://emilie.henreaux.be/">emilie.henreaux.be 
 - ⚡ Fun fact : I like video games, cinema, reading, writing and drawing
