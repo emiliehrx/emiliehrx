@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Emilie, a .Net Full Stack Developer from Belgium. 
+I am Emilie, .Net Full Stack Developer in training from Belgium. 
 I like solving problems and everything related to new technologies and computers. 
 
 - 🔭 I’m currently working on learning new things every day
